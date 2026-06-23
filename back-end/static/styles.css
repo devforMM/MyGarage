@@ -1,0 +1,260 @@
+/* -------- VARIABLES (Palette Médicale) -------- */
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap');
+
+:root {
+    --primary-color: #0d9488; /* Vert canard/Teal médical */
+    --primary-hover: #0f766e;
+    --secondary-color: #0284c7; /* Bleu clinique */
+    --bg-color: #f0fdfa; /* Fond très légèrement mentholé/pur */
+    --text-dark: #1e293b;
+    --text-muted: #64748b;
+    --card-bg: #ffffff;
+    --border-color: #e2e8f0;
+    --shadow-soft: 0 10px 25px rgba(13, 148, 136, 0.08);
+    --shadow-hover: 0 15px 35px rgba(13, 148, 136, 0.15);
+    --radius-md: 12px;
+    --radius-lg: 20px;
+    --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* -------- GLOBAL -------- */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', Arial, sans-serif;
+}
+
+body {
+    background: var(--bg-color);
+    color: var(--text-dark);
+    padding: 30px;
+    line-height: 1.6;
+}
+
+/* -------- TITLES -------- */
+h1, h2, h3 {
+    color: var(--secondary-color);
+    margin-bottom: 15px;
+    font-weight: 600;
+    letter-spacing: -0.5px;
+}
+
+/* Ajout d'un petit accent sous les titres principaux */
+h1::after {
+    content: '';
+    display: block;
+    width: 50px;
+    height: 4px;
+    background: var(--primary-color);
+    border-radius: 4px;
+    margin-top: 8px;
+}
+
+/* -------- LINKS -------- */
+a {
+    text-decoration: none;
+    color: var(--primary-color);
+    font-weight: 500;
+    transition: var(--transition);
+}
+
+a:hover {
+    color: var(--secondary-color);
+}
+
+/* -------- FORMS -------- */
+form {
+    margin-top: 15px;
+}
+
+input {
+    width: 100%;
+    padding: 12px 15px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    border: 1px solid var(--border-color);
+    border-radius: var(--radius-md);
+    font-size: 14px;
+    background: #f8fafc;
+    transition: var(--transition);
+}
+
+input:focus {
+    outline: none;
+    border-color: var(--primary-color);
+    background: var(--card-bg);
+    box-shadow: 0 0 0 4px rgba(13, 148, 136, 0.1); /* Effet "Glow" médical */
+}
+
+button {
+    width: 100%;
+    padding: 12px 20px;
+    border: none;
+    border-radius: var(--radius-md);
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: white;
+    font-size: 16px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: var(--transition);
+    box-shadow: 0 4px 12px rgba(2, 132, 199, 0.2);
+}
+
+button:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(2, 132, 199, 0.3);
+}
+
+/* -------- LOGIN / REGISTER -------- */
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 80vh;
+}
+
+.login-box {
+    background: var(--card-bg);
+    padding: 50px 40px;
+    border-radius: var(--radius-lg);
+    width: 400px;
+    box-shadow: var(--shadow-soft);
+    border-top: 5px solid var(--primary-color); /* Ligne de confiance */
+}
+
+.login-header {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.login-header h2 {
+    margin-bottom: 5px;
+}
+
+.login-header h2::after {
+    display: none; /* Désactive la barre sous ce titre spécifique */
+}
+
+/* -------- DASHBOARD -------- */
+.cards-container {
+    display: flex;
+    gap: 25px;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+.card {
+    background: var(--card-bg);
+    padding: 25px;
+    border-radius: var(--radius-lg);
+    width: 280px;
+    box-shadow: var(--shadow-soft);
+    border: 1px solid rgba(255,255,255,0.5);
+    transition: var(--transition);
+    position: relative;
+    overflow: hidden;
+}
+
+/* Petite barre latérale sur les cartes pour le style clinique */
+.card::before {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    width: 4px;
+    background: var(--primary-color);
+    opacity: 0.5;
+    transition: var(--transition);
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: var(--shadow-hover);
+}
+
+.card:hover::before {
+    opacity: 1;
+}
+
+.card p {
+    color: var(--text-muted);
+    font-size: 14px;
+    margin-bottom: 10px;
+}
+
+/* -------- CONSULTATION TABLE -------- */
+table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin-top: 30px;
+    background: var(--card-bg);
+    border-radius: var(--radius-md);
+    overflow: hidden; /* Pour garder les bords arrondis avec le background */
+    box-shadow: var(--shadow-soft);
+}
+
+th, td {
+    padding: 16px 20px;
+    text-align: left;
+    border-bottom: 1px solid var(--border-color);
+}
+
+th {
+    background: var(--primary-color);
+    color: white;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 13px;
+    letter-spacing: 0.5px;
+}
+
+td {
+    color: var(--text-dark);
+    font-size: 14px;
+}
+
+tr:last-child td {
+    border-bottom: none;
+}
+
+tr:hover td {
+    background: #f8fafc; /* Surbrillance douce au survol */
+}
+
+/* -------- CONSULTATION DETAIL -------- */
+.full-card {
+    background: var(--card-bg);
+    padding: 40px;
+    border-radius: var(--radius-lg);
+    max-width: 800px;
+    margin: 0 auto;
+    box-shadow: var(--shadow-soft);
+    border-top: 5px solid var(--secondary-color);
+}
+
+.full-card p {
+    color: var(--text-muted);
+    margin-bottom: 15px;
+    font-size: 15px;
+}
+
+.full-card strong {
+    color: var(--text-dark);
+}
+
+/* -------- IMAGE (Radiographies, Profils patients, etc.) -------- */
+img {
+    margin-top: 15px;
+    max-width: 100%;
+    border-radius: var(--radius-md);
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+    border: 2px solid #f1f5f9;
+    transition: var(--transition);
+}
+
+img:hover {
+    box-shadow: 0 8px 20px rgba(0,0,0,0.1);
+}
