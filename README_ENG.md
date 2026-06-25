@@ -49,15 +49,35 @@ FastAPI Application
 
 ### Frontend Structure
 
-```
-Flutter Application
-├── AuthScreen
-├── AudioDiagnosticScreen
-├── VisualDiagnosticScreen
-├── PricePredictionScreen
-├── ResultScreen
-└── HistoryScreen
-```
+lib
+├── providers
+│   └── TokenProvider.dart
+├── screens
+│   ├── AddAudioAnalysisScreen.dart
+│   ├── AddTauleAnalysisScreen.dart
+│   ├── AllAnalyses_Screen.dart
+│   ├── AllIssuesScreen.dart
+│   ├── AllPannes_Screen.dart
+│   ├── AnalysisDetailsScreen.dart
+│   ├── ChatScreen.dart
+│   ├── DashboardScreen.dart
+│   ├── IssueDetailsScreen.dart
+│   ├── LoginScreen.dart
+│   ├── PricePredictionScreen.dart
+│   ├── RegisterScreen.dart
+│   └── SplashScreen.dart
+├── services
+│   ├── audio_services.dart
+│   ├── taule_analysis_services.dart
+│   ├── taule_services.dart
+│   └── user_services.dart
+├── theme
+│   └── app_theme.dart
+├── widgets
+│   └── custom_widgets.dart
+├── main.dart
+└── routes.dart
+
 
 ## 🛠️ Technologies
 
@@ -79,83 +99,6 @@ Flutter Application
 - **State Management**: Provider
 - **Storage**: SharedPreferences
 - **Notifications**: flutter_local_notifications
-
-## 📦 Installation
-
-### Backend Setup
-
-1. **Clone the repository**
-```bash
-git clone <repo-url>
-cd garage-backend
-```
-
-2. **Create virtual environment**
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-```
-
-3. **Install dependencies**
-```bash
-pip install fastapi uvicorn
-pip install torch torchvision torchaudio
-pip install transformers
-pip install ultralytics
-pip install catboost
-pip install langgraph langchain
-pip install celery redis
-pip install sqlalchemy
-pip install pydantic
-```
-
-4. **Download models**
-```bash
-# Models will auto-download on first use
-# Audio: MIT/ast-finetuned-audioset-10-10-0.4593
-# Vision: yolov8n.pt (or car_model.pt)
-# Price: deep_learning/prediction_model.cbm
-```
-
-5. **Configure environment**
-```bash
-cp .env.example .env
-# Edit .env with your settings
-```
-
-6. **Start services**
-```bash
-# Redis (required for Celery)
-redis-server
-
-# Celery worker
-celery -A server.celery_script worker --loglevel=info
-
-# Celery scheduler (optional)
-celery -A server.celery_script beat
-
-# FastAPI server
-uvicorn main:app --reload --port 8000
-```
-
-### Frontend Setup
-
-1. **Install Flutter SDK** (if not already installed)
-```bash
-flutter pub global activate fvm
-fvm install
-```
-
-2. **Get dependencies**
-```bash
-cd garage-flutter
-flutter pub get
-```
-
-3. **Run on device/emulator**
-```bash
-flutter run
-```
 
 ## 🔌 API Endpoints
 
@@ -347,52 +290,11 @@ predictions = model.predict(vehicle_data)
 - **Diagnostic history** with SQLite storage
 - **Dark mode support**
 
-## 🔧 Configuration
-
-### Redis
-```bash
-redis-server --port 6379
-```
-
-### Celery
-```bash
-# Worker
-celery -A server.celery_script worker --loglevel=info
-
-# Beat scheduler
-celery -A server.celery_script beat --loglevel=info
-```
-
-### Database
-Update `.env`:
-```
-DATABASE_URL=postgresql://user:password@localhost/garage
-# or
-DATABASE_URL=sqlite:///./garage.db
-```
-
-## 📊 Performance
-
-- **Audio inference**: ~200ms (GPU-optimized)
-- **Vision inference**: ~150ms per image
-- **Price prediction**: ~50ms
-- **Async task processing**: Redis queue
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
 
 ## 📄 License
 
 MIT License - See LICENSE file for details
-
-## 📞 Support
-
-For issues and questions, please open an GitHub issue or contact the development team.
-
+à
 ---
 
 **Built with ❤️ using FastAPI, Flutter, and cutting-edge ML models**
