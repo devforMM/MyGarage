@@ -1,0 +1,1432 @@
+# Worn Brake Pads
+Sound: Squealing, Screeching, Grinding
+What Broke: Brake pads are too thin.
+How to Recognize While Driving: Noise only when pressing brake pedal, Grinding means metal touching metal, Car may need longer distance to stop
+Main Causes: Normal wear, Cheap pads, Aggressive braking
+Is It Dangerous?: ⚠️ High Risk
+Easy or Garage?: ✅ Simple for mechanics, ⚠️ Garage recommended for beginners
+Typical Fix: Replace brake pads, Check brake rotors
+[SEP]
+# Warped Brake Discs (Rotors)
+Sound: Grinding, Pulsing rubbing noise
+What Broke: Brake discs became uneven or warped.
+How to Recognize While Driving: Steering wheel shakes while braking, Brake pedal vibrates, Car vibrates during braking
+Main Causes: Overheating, Hard braking, Old rotors
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️ Garage recommended
+Typical Fix: Resurface or replace rotors
+[SEP]
+# Wheel Misalignment
+Sound: Usually no loud sound, Tire humming sometimes
+What Broke: Wheel angles are no longer straight.
+How to Recognize While Driving: Car pulls left or right, Steering wheel not centered, Uneven tire wear
+Main Causes: Hitting potholes, Suspension wear, Accidents
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ❌ Needs alignment machine
+Typical Fix: Wheel alignment
+[SEP]
+# Tire Balancing Problem
+Sound: Humming, Vibration noise
+What Broke: Wheel balance weights are missing or incorrect.
+How to Recognize While Driving: Steering wheel vibrates at certain speeds, Usually between 80–120 km/h
+Main Causes: Lost wheel weight, Tire replacement, Bent rim
+Is It Dangerous?: ⚠️ Low to Medium Risk
+Easy or Garage?: ⚠️ Tire shop recommended
+Typical Fix: Rebalance wheels
+[SEP]
+# Bad CV Joint (Cardan / Axle Joint)
+Sound: Clicking, Popping, Snapping
+What Broke: CV joint near wheel is damaged.
+How to Recognize While Driving: Clicking during sharp turns, Noise gets faster with speed, Common during parking
+Main Causes: Torn rubber boot, Grease leak, Wear
+Is It Dangerous?: ⚠️ High Risk
+Easy or Garage?: ⚠️ Medium difficulty
+Typical Fix: Replace CV axle or join
+[SEP]
+# Bad Steering Rack (Rack and Pinion / Crémaillère)
+Sound: Clunking, Knocking, Clicking
+What Broke: Internal steering rack components worn out.
+How to Recognize While Driving: Loose steering feeling, Clunk noise while turning, Steering may feel unstable
+Main Causes: Old age, Bad roads, Fluid leaks
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ❌ Garage required
+Typical Fix: Repair or replace steering rack
+[SEP]
+# Loose Tie Rod Ends
+Sound: Clunking, Knocking
+What Broke: Tie rod joints became loose.
+How to Recognize While Driving: Steering feels loose, Noise over bumps, Car wanders on road
+Main Causes: Wear, Potholes
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ⚠️ Medium difficulty
+Typical Fix: Replace tie rod ends, Alignment after repair
+[SEP]
+# Bad Ball Joint
+Sound: Clunking, Creaking
+What Broke: Ball joint in suspension worn out., Ball joint worn or loose.
+What Drivers Notice: Steering instability, Uneven tire wear
+How to Recognize While Driving: Noise over bumps, Steering instability, Uneven tire wear
+Main Causes: Age, Lack of lubrication, Bad roads
+Is It Dangerous?: 🚨 Very Dangerous
+Easy or Garage?: ⚠️ Difficult
+Typical Fix: Replace ball joint
+[SEP]
+# Worn Tires
+Sound: Humming, Road roar, Flapping
+What Broke: Tires are unevenly worn or damaged.
+How to Recognize While Driving: Vibration, Poor grip, Noise increases with speed
+Main Causes: Bad alignment, Old tires, Poor balancing
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ✅ Easy inspection
+Typical Fix: Replace tires, Alignment and balancing
+[SEP]
+# Bad Wheel Bearing
+Sound: Roaring, Humming, Airplane-like noise
+What Broke: Wheel bearing worn out.
+What Drivers Notice: Loud road noise increasing with speed
+How to Recognize While Driving: Noise gets louder with speed, Sound changes while turning
+Main Causes: Wear, Water damage, Impacts, Water intrusion
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ❌ Garage recommended
+Typical Fix: Replace wheel bearing
+[SEP]
+# Loose Exhaust Pipe
+Sound: Metallic rattling, Vibrating
+What Broke: Exhaust pipe or hanger became loose.
+How to Recognize While Driving: Noise under car, Worse on bumps, Vibration at idle
+Main Causes: Rust, Broken hanger
+Is It Dangerous?: ⚠️ Low to Medium Risk
+Easy or Garage?: ✅ Often simple
+Typical Fix: Tighten or replace hanger
+[SEP]
+# Bad Engine Mount
+Sound: Heavy clunk, Bang
+What Broke: Rubber engine mount torn.
+How to Recognize While Driving: Strong vibration, Engine movement during acceleration
+Main Causes: Age, Oil leaks
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️ Garage recommended
+Typical Fix: Replace engine mount
+[SEP]
+# Bad Suspension Bushing
+Sound: Squeaking, Clunking
+What Broke: Rubber suspension bushings worn out.
+How to Recognize While Driving: Noise over bumps, Loose suspension feel
+Main Causes: Old rubber, Heat, Road wear
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Medium difficulty
+Typical Fix: Replace bushings
+[SEP]
+# Bad Shock Absorber
+Sound: Thudding, Banging
+What Broke: Shock absorber leaking or weak., Shock absorber worn or leaking.
+What Drivers Notice: Car bounces too much, Poor stability
+How to Recognize While Driving: Car bounces a lot, Poor stability, Nose dives during braking
+Main Causes: Wear, Oil leaks, Old suspension, Rough roads
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️Garage recommended
+Typical Fix: Replace shocks in pairs
+[SEP]
+# Bent Rim
+Sound: Thumping, Vibration
+What Broke: Wheel rim bent from impact.
+How to Recognize While Driving: Steering wheel shakes, Vibration at speed
+Main Causes: Potholes, Curbs
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Tire shop needed
+Typical Fix: Repair or replace rim
+[SEP]
+# Loose Lug Nuts
+Sound: Rhythmic clunking, Wobbling noise
+What Broke: Wheel nuts are loose.
+How to Recognize While Driving: Wheel wobble, Noise increases with speed
+Main Causes: Improper tightening
+Is It Dangerous?: 🚨 Extremely Dangerous
+Easy or Garage?: ✅ Easy if caught early
+Typical Fix: Tighten lug nuts immediately
+[SEP]
+# Power Steering Fluid Leak
+Sound: Whining, Groaning
+What Broke: Power steering system losing fluid.
+How to Recognize While Driving: Hard steering, Noise while turning
+Main Causes: Hose leak, Bad seals
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Garage recommended
+Typical Fix: Repair leak, Refill fluid
+[SEP]
+# Bad Clutch
+Sound: Grinding, Rattling
+What Broke: Clutch disc worn out.
+How to Recognize While Driving: Hard shifting, RPM rises without acceleration
+Main Causes: Wear, Aggressive driving
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ❌ Garage required
+Typical Fix: Replace clutch kit
+[SEP]
+# Loose Heat Shield
+Sound: Metallic buzzing, Rattling, Metallic rattling, Buzzing
+What Broke: Heat shield became loose.
+How to Recognize While Driving: Noise at certain RPMs, Rattle under car, Noise at certain RPM
+Main Causes: Rust, Broken clips
+Is It Dangerous?: ⚠️ Low Risk
+Easy or Garage?: ✅ Often easy, ✅ Usually simple
+Typical Fix: Tighten or replace shield
+[SEP]
+# Bad Sway Bar Link
+Sound: Knocking, Rattling
+What Broke: Sway bar link worn or loose.
+What Drivers Notice: Front suspension noise on bumps
+How to Recognize While Driving: Noise on small bumps, Front suspension rattles
+Main Causes: Wear, Rough roads
+Is It Dangerous?: ⚠️ Low to Medium Risk
+Easy or Garage?: ✅ Possible with tools
+Typical Fix: Replace sway bar links
+[SEP]
+# Engine Overheating
+Sound: Boiling noise, Hissing, Cooling fan running very loud
+What Broke: Cooling system problem:, Bad thermostat, Bad water pump, Bad radiator, Coolant leak
+How to Recognize While Driving: Temperature gauge goes high, Steam from hood, Sweet coolant smell, Engine loses power
+Main Causes: Low coolant, Coolant leak, Old cooling parts
+Is It Dangerous?: 🚨 Very Dangerous
+Easy or Garage?: ⚠️ Small leaks maybe simple, ❌ Serious overheating = garage immediately
+Typical Fix: Repair leak, Replace thermostat or water pump, Refill coolant
+[SEP]
+# Car Battery Problem
+Sound: Rapid clicking, Weak crank
+What Broke: Battery lost charge or became weak.
+How to Recognize While Driving: Hard start, Dim headlights, Electronics weak
+Main Causes: Old battery, Alternator issue, Leaving lights ON
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ✅ Often simple
+Typical Fix: Recharge or replace battery
+[SEP]
+# Alternator Failure
+Sound: Whining, Grinding, Electrical buzzing
+What Broke: Alternator not charging correctly.
+How to Recognize While Driving: Battery light ON, Lights flicker, Car may suddenly stop
+Main Causes: Worn bearings, Electrical failure
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ⚠️ Medium difficulty
+Typical Fix: Replace alternator
+[SEP]
+# Bad Starter Motor
+Sound: Clicking, Grinding
+What Broke: Starter motor cannot turn engine properly.
+How to Recognize While Driving: Car refuses to start, Single click when turning key
+Main Causes: Old starter, Electrical problems
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Garage recommended
+Typical Fix: Replace starter motor
+[SEP]
+# Engine Misfire
+Sound: Popping, Sputtering, Uneven engine sound
+What Broke: Ignition or fuel problem:, Ignition coils, Fuel injectors, Spark plugs
+How to Recognize While Driving: Engine shaking, Loss of power, Jerking acceleration
+Main Causes: Bad spark plugs, Fuel problems
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️ Sometimes simple
+Typical Fix: Replace spark plugs or coils
+[SEP]
+# Transmission Problem
+Sound: Grinding, Clunking, Whining
+What Broke: Internal gearbox wear or low transmission fluid.
+How to Recognize While Driving: Hard shifting, Delayed acceleration, Gear slipping
+Main Causes: Old fluid, Internal wear
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ❌ Garage required
+Typical Fix: Fluid service, Transmission repair
+[SEP]
+# Turbocharger Problem
+Sound: Loud whistle, Siren noise
+What Broke: Turbo bearings or seals damaged.
+How to Recognize While Driving: Loss of power, Smoke from exhaust, Weak acceleration
+Main Causes: Poor oil changes, Oil starvation
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ❌ Garage required
+Typical Fix: Replace or rebuild turbo
+[SEP]
+# Exhaust Leak
+Sound: Loud rumbling, Ticking, Puffing
+What Broke: Hole or crack in exhaust system.
+How to Recognize While Driving: Loud exhaust, Exhaust smell, Worse during acceleration
+Main Causes: Rust, Broken gasket
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Sometimes simple
+Typical Fix: Weld or replace exhaust part
+[SEP]
+# Catalytic Converter Failure
+Sound: Rattling, Metallic shaking
+What Broke: Catalytic converter internal material broken.
+How to Recognize While Driving: Loss of power, Poor acceleration, Check engine light
+Main Causes: Old converter, Engine misfires
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ❌ Garage recommended
+Typical Fix: Replace catalytic converter
+[SEP]
+# Fuel Pump Failure
+Sound: Loud humming, Buzzing
+What Broke: Fuel pump weak or failing.
+How to Recognize While Driving: Hard starts, Engine stalls, Loss of power
+Main Causes: Dirty fuel, Old pump
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ⚠️ Medium difficulty
+Typical Fix: Replace fuel pump
+[SEP]
+# AC Compressor Failure
+Sound: Grinding, Clicking, Squealing
+What Broke: AC compressor bearings damaged.
+How to Recognize While Driving: Noise only when AC ON, Weak cooling
+Main Causes: Age, Refrigerant problems
+Is It Dangerous?: ⚠️ Low to Medium Risk
+Easy or Garage?: ⚠️ Garage recommended
+Typical Fix: Replace compressor
+[SEP]
+# Bad Spark Plugs
+Sound: Popping, Misfire sounds
+What Broke: Spark plugs worn out.
+How to Recognize While Driving: Rough idle, Weak acceleration, Engine shaking
+Main Causes: Old spark plugs
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ✅ Usually simple
+Typical Fix: Replace spark plugs
+[SEP]
+# Vacuum Leak
+Sound: Hissing, Whistling
+What Broke: Vacuum hose cracked or disconnected.
+How to Recognize While Driving: Rough idle, Engine shakes, Check engine light
+Main Causes: Old rubber hoses, Heat damage
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ✅ Often simple
+Typical Fix: Replace hose
+[SEP]
+# Timing Chain Problem
+Sound: Metallic rattling, Ticking
+What Broke: Timing chain stretched or loose.
+How to Recognize While Driving: Noise during cold start, Check engine light, Poor engine performance
+Main Causes: Poor oil maintenance, High mileage
+Is It Dangerous?: 🚨 Very Dangerous
+Easy or Garage?: ❌ Garage required
+Typical Fix: Replace timing chain kit
+[SEP]
+# Dirty Fuel Injectors
+Sound: Fast ticking, Rough engine noise
+What Broke: Injectors clogged or dirty.
+How to Recognize While Driving: Poor acceleration, Engine hesitation, Higher fuel consumption
+Main Causes: Bad fuel, Dirt buildup
+Is It Dangerous?: ⚠️ Low to Medium Risk
+Easy or Garage?: ✅ Sometimes simple
+Typical Fix: Injector cleaning or replacement
+[SEP]
+# Engine Oil Too Low
+Sound: Ticking, Knocking
+What Broke: Engine lacks proper lubrication.
+How to Recognize While Driving: Oil warning light, Engine noise increases with RPM
+Main Causes: Oil leak, Lack of maintenance
+Is It Dangerous?: 🚨 Extremely Dangerous
+Easy or Garage?: ✅ Easy if caught early
+Typical Fix: Add oil, Repair leaks
+[SEP]
+# Dirty Air Filter
+Sound: Deep intake noise, Struggling engine sound
+What Broke: Air filter clogged with dirt.
+What Drivers Notice: Weak engine, High fuel consumption
+How to Recognize While Driving: Weak acceleration, Higher fuel consumption
+Main Causes: Dust, Old filter, Lack of maintenance
+Is It Dangerous?: ⚠️ Low Risk
+Easy or Garage?: ✅ Very simple
+Typical Fix: Replace air filter
+[SEP]
+# Clutch Slipping
+Sound: Grinding, Rattling
+What Broke: Coolant is entering the engine combustion chamber., Clutch disc worn out.
+What Drivers Notice: Thick white smoke from exhaust, Sweet smell, Engine overheating
+How to Recognize While Driving: RPM increases without speed increase, Burning smell, Weak acceleration
+Main Causes: Old clutch, Aggressive driving, Blown head gasket, Cracked engine head, Engine overheating
+Is It Dangerous?: ⚠️ Medium to High Risk 🚨 Very Dangerous
+Easy or Garage?: ❌ Garage required
+Typical Fix: Replace clutch kit, # 1. White Smoke From Exhaust, Replace head gasket, Engine repair
+[SEP]
+# Blue Smoke From Exhaust
+What Broke: Engine is burning oil internally.
+What Drivers Notice: Blue smoke while accelerating, Burning oil smell
+Main Causes: Worn piston rings, Bad valve seals, Turbo oil leak
+Is It Dangerous?: ⚠️ High Risk
+Easy or Garage?: ❌ Usually garage
+Typical Fix: Internal engine repair
+[SEP]
+# Black Smoke From Exhaust
+What Broke: Too much fuel entering engine.
+What Drivers Notice: Thick black smoke, Strong fuel smell, High fuel consumption
+Main Causes: Bad injectors, Dirty air filter, Sensor problems
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Sometimes simple
+Typical Fix: Injector cleaning, Replace air filter
+[SEP]
+# Burning Oil Smell
+What Broke: Oil leaking onto hot engine parts.
+What Drivers Notice: Strong burnt oil smell, Smoke from engine bay sometimes
+Main Causes: Valve cover leak, Oil leaks
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️ Depends on leak
+Typical Fix: Repair oil leak, Replace gasket
+[SEP]
+# Burning Plastic or Electrical Smell
+What Broke: Electrical wire overheating or melting.
+What Drivers Notice: Burnt plastic smell, Electrical odor
+Main Causes: Short circuit, Bad alternator, Damaged wiring
+Is It Dangerous?: 🚨 Fire Risk
+Easy or Garage?: ❌ Garage immediately
+Typical Fix: Repair electrical system
+[SEP]
+# Fuel Smell Inside or Outside Car
+What Broke: Fuel leak somewhere in system.
+What Drivers Notice: Strong gasoline or diesel smell
+Main Causes: Leaking hose, Bad injector, Fuel tank leak
+Is It Dangerous?: 🚨 Very Dangerous
+Easy or Garage?: ❌ Garage immediately
+Typical Fix: Repair fuel leak
+[SEP]
+# Car Pulls to One Side
+What Broke: or brake problem., Alignment, tire
+What Drivers Notice: Car moves left or right by itself
+Main Causes: Bad alignment, Uneven tires, Stuck brake caliper
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️ Garage recommended
+Typical Fix: Alignment, Brake repair
+[SEP]
+# Steering Wheel Vibrates
+What Broke: Wheel or suspension issue.
+What Drivers Notice: Steering wheel shaking at speed
+Main Causes: Tire balancing, Bent rim, Bad suspension
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Tire shop or garage
+Typical Fix: Wheel balancing, Replace damaged parts
+[SEP]
+# Brake Pedal Feels Soft
+What Broke: Brake hydraulic problem.
+What Drivers Notice: Brake pedal goes too low, Weak braking
+Main Causes: Brake fluid leak, Air in brake lines
+Is It Dangerous?: 🚨 Extremely Dangerous
+Easy or Garage?: ❌ Garage immediately
+Typical Fix: Repair leak, Bleed brake system
+[SEP]
+# Hard Steering
+What Broke: Power steering failure.
+What Drivers Notice: Steering wheel difficult to turn
+Main Causes: Low fluid, Bad steering pump
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️ Garage recommended
+Typical Fix: Repair leak, Replace pump
+[SEP]
+# Car Shakes at Idle
+What Broke: Engine running unevenly.
+What Drivers Notice: Car vibrates while stopped
+Main Causes: Misfire, Bad engine mount, Vacuum leak
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Sometimes simple
+Typical Fix: Tune-up, Replace faulty parts
+[SEP]
+# Car Loses Power During Driving
+What Broke: or turbo problem., Fuel, air
+What Drivers Notice: Weak acceleration, Car struggles uphill
+Main Causes: Clogged fuel filter, Turbo failure, Dirty air filter
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️ Depends on cause
+Typical Fix: Replace clogged parts, Turbo repair
+[SEP]
+# Engine Stalls Suddenly
+What Broke: Fuel or electrical failure.
+What Drivers Notice: Engine shuts off while driving
+Main Causes: Bad fuel pump, Crankshaft sensor, Electrical issue
+Is It Dangerous?: 🚨 Very Dangerous
+Easy or Garage?: ❌ Garage required
+Typical Fix: Replace faulty sensor or pump
+[SEP]
+# Poor Fuel Economy
+What Broke: Engine not running efficiently.
+What Drivers Notice: Car consumes much more fuel
+Main Causes: Dirty injectors, Bad oxygen sensor, Dirty air filter
+Is It Dangerous?: ⚠️ Low to Medium Risk
+Easy or Garage?: ✅ Sometimes simple
+Typical Fix: Sensor replacement, Engine tune-up
+[SEP]
+# Car Overheats in Traffic
+What Broke: Cooling fan not working correctly.
+What Drivers Notice: Temperature rises in traffic, Normal at highway speeds
+Main Causes: Bad fan motor, Bad relay, Sensor issue
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ⚠️ Medium difficulty
+Typical Fix: Replace cooling fan components
+[SEP]
+# Water Under the Car
+What Broke: Usually nothing serious.
+What Drivers Notice: Water dripping under car
+Main Causes: AC condensation
+Is It Dangerous?: ✅ Usually Normal
+Easy or Garage?: ✅ No repair needed normally
+Typical Fix: None
+[SEP]
+# Oil Under the Car
+What Broke: Oil leak.
+What Drivers Notice: Dark oil spots under parked car
+Main Causes: Bad gasket, Oil pan leak
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️ Depends on leak
+Typical Fix: Repair oil leak
+[SEP]
+# Coolant Leak
+Sound: Sometimes hissing
+What Broke: Cooling system leaking coolant.
+What Drivers Notice: Green, pink, or orange liquid under car, Sweet smell, Low coolant warning
+Main Causes: Bad hose, Radiator crack, Broken hose, Cracked radiator, Bad water pump
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ⚠️ Depends on leak, ⚠️ Depends on leak location
+Typical Fix: Replace leaking component
+[SEP]
+# Car Jerks During Acceleration
+What Broke: Fuel or ignition issue.
+What Drivers Notice: Sudden jerking while accelerating
+Main Causes: Misfire, Dirty injectors, Transmission issue
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Depends on cause
+Typical Fix: Tune-up, Injector cleaning
+[SEP]
+# Grinding While Shifting Gears
+What Broke: The car detected an engine or sensor problem., Transmission or clutch problem.
+What Drivers Notice: Grinding when changing gears, Yellow engine warning light on dashboard
+Main Causes: Worn clutch, Low transmission fluid, Bad sensor, Misfire, Fuel or air issue
+Is It Dangerous?: ⚠️ High Risk ⚠️ Sometimes minor
+Easy or Garage?: ❌ Garage required, ⚠️ Needs diagnostic scanner
+Typical Fix: Clutch or transmission repair, # 21. Check Engine Light ON, Scan fault codes, Repair faulty component
+[SEP]
+# ABS Warning Light ON
+What Broke: ABS braking system problem.
+What Drivers Notice: ABS light appears on dashboard
+Main Causes: Bad wheel speed sensor, ABS module issue
+Is It Dangerous?: ⚠️ Normal brakes still work
+Easy or Garage?: ⚠️ Garage recommended
+Typical Fix: Replace ABS sensor
+[SEP]
+# Tire Pressure Warning Light
+What Broke: One tire has low pressure.
+What Drivers Notice: Tire pressure light ON
+Main Causes: Nail in tire, Temperature changes, Slow leak
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ✅ Usually simple
+Typical Fix: Inflate tire, Repair puncture
+[SEP]
+# Car Does Not Start
+What Broke: or fuel issue., Battery, starter
+What Drivers Notice: Engine does nothing or cranks weakly
+Main Causes: Dead battery, Bad starter, Fuel pump issue
+Is It Dangerous?: ⚠️ Not dangerous but immobilizing
+Easy or Garage?: ⚠️ Depends on cause
+Typical Fix: Jump-start, Replace faulty part
+[SEP]
+# Car Starts Then Dies
+What Broke: Fuel or anti-theft system issue.
+What Drivers Notice: Engine starts briefly then shuts off
+Main Causes: Fuel pump, Immobilizer problem, Sensor failure
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Garage often needed
+Typical Fix: Diagnose fuel/electrical system
+[SEP]
+# Air Conditioner Not Cold
+What Broke: AC system lost cooling ability.
+What Drivers Notice: AC blows warm air
+Main Causes: Low refrigerant, Compressor issue
+Is It Dangerous?: ✅ Not dangerous
+Easy or Garage?: ⚠️ Often garage needed
+Typical Fix: AC recharge, Compressor repair
+[SEP]
+# Heater Not Working
+What Broke: Cooling or heating system issue.
+What Drivers Notice: No hot air inside cabin
+Main Causes: Low coolant, Bad thermostat, Heater core issue
+Is It Dangerous?: ⚠️ Sometimes linked to overheating
+Easy or Garage?: ⚠️ Depends on cause
+Typical Fix: Repair cooling system
+[SEP]
+# Windshield Wipers Not Working
+What Broke: Wiper motor or linkage issue.
+What Drivers Notice: Wipers stop moving or move slowly
+Main Causes: Burnt motor, Broken linkage, Fuse problem
+Is It Dangerous?: ⚠️ Dangerous during rain
+Easy or Garage?: ✅ Sometimes simple
+Typical Fix: Replace fuse or motor
+[SEP]
+# One Headlight Not Working
+What Broke: Bulb or electrical issue.
+What Drivers Notice: One side dark at night
+Main Causes: Burnt bulb, Fuse issue
+Is It Dangerous?: ⚠️ Medium Risk at night
+Easy or Garage?: ✅ Usually simple
+Typical Fix: Replace bulb
+[SEP]
+# Horn Not Working
+What Broke: or wiring issue., Horn, fuse
+What Drivers Notice: No sound when pressing horn
+Main Causes: Bad horn, Fuse blown
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ✅ Often simple
+Typical Fix: Replace fuse or horn
+[SEP]
+# Door Will Not Lock
+What Broke: Door actuator or lock mechanism failure.
+What Drivers Notice: Door lock does not respond
+Main Causes: Electrical failure, Worn actuator
+Is It Dangerous?: ⚠️ Security Risk
+Easy or Garage?: ⚠️ Medium difficulty
+Typical Fix: Replace actuator
+[SEP]
+# Electric Window Not Working
+What Broke: Window motor or regulator failure.
+What Drivers Notice: Window stuck open or closed
+Main Causes: Broken regulator, Burnt motor
+Is It Dangerous?: ⚠️ Low Risk
+Easy or Garage?: ⚠️ Medium difficulty
+Typical Fix: Replace window regulator
+[SEP]
+# Trunk Will Not Open
+What Broke: Latch or actuator issue.
+What Drivers Notice: Trunk stuck shut
+Main Causes: Broken cable, Electrical fault
+Is It Dangerous?: ✅ Usually not dangerous
+Easy or Garage?: ✅ Sometimes simple
+Typical Fix: Repair latch mechanism
+[SEP]
+# Key Stuck in Ignition
+What Broke: Ignition lock or gear selector issue.
+What Drivers Notice: Key cannot come out
+Main Causes: Steering lock pressure, Transmission not fully in park
+Is It Dangerous?: ⚠️ Low Risk
+Easy or Garage?: ✅ Often simple
+Typical Fix: Adjust steering wheel, Repair ignition mechanism
+[SEP]
+# Steering Wheel Locked
+What Broke: Steering lock activated.
+What Drivers Notice: Steering wheel will not move
+Main Causes: Anti-theft lock pressure
+Is It Dangerous?: ✅ Usually normal
+Easy or Garage?: ✅ Simple usually
+Typical Fix: Turn steering slightly while starting
+[SEP]
+# Brake Lights Not Working
+What Broke: or brake switch issue., Bulb, fuse
+What Drivers Notice: Rear brake lights stay OFF
+Main Causes: Burnt bulb, Bad brake pedal switch
+Is It Dangerous?: 🚨 Dangerous for traffic safety
+Easy or Garage?: ✅ Usually simple
+Typical Fix: Replace bulb or switch
+[SEP]
+# Reverse Camera Not Working
+What Broke: Camera or wiring issue.
+What Drivers Notice: Black screen while reversing
+Main Causes: Water damage, Loose connection
+Is It Dangerous?: ⚠️ Low to Medium Risk
+Easy or Garage?: ⚠️ Medium difficulty
+Typical Fix: Replace camera
+[SEP]
+# Bluetooth or Radio Not Working
+What Broke: Infotainment system issue.
+What Drivers Notice: No sound or connection
+Main Causes: Software bug, Fuse issue
+Is It Dangerous?: ✅ Not dangerous
+Easy or Garage?: ✅ Often simple
+Typical Fix: Reset system, Replace fuse
+[SEP]
+# Car Alarm Goes Off Randomly
+What Broke: Alarm sensor or battery issue.
+What Drivers Notice: Alarm activates by itself
+Main Causes: Weak battery, Faulty sensor
+Is It Dangerous?: ⚠️ Low Risk
+Easy or Garage?: ⚠️ Sometimes garage needed
+Typical Fix: Replace sensor or battery
+[SEP]
+# Cruise Control Stops Working
+What Broke: Engine is not producing normal power., Sensor or brake switch problem.
+What Drivers Notice: Cruise control will not activate, Car struggles to accelerate, Feels heavy, Slow response when pressing gas pedal
+Main Causes: Brake pedal sensor, Steering button issue, Dirty air filter, Fuel problem, Turbo issue, Clogged catalytic converter
+Is It Dangerous?: ✅ Not dangerous ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️ Diagnostic may be needed, ⚠️ Depends on cause
+Typical Fix: Replace faulty sensor, # 41. Car Feels Weak During Acceleration, Engine diagnosis, Replace clogged or damaged parts
+[SEP]
+# Car Jerks While Accelerating
+What Broke: Fuel or ignition system problem.
+What Drivers Notice: Sudden jerks or hesitation, Car feels unstable during acceleration
+Main Causes: Bad spark plugs, Dirty injectors, Ignition coil failure
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Sometimes simple
+Typical Fix: Tune-up, Replace ignition components
+[SEP]
+# Car Vibrates at High Speed
+What Broke: or suspension issue., Wheel, tire
+What Drivers Notice: Strong vibration above certain speed, Steering wheel shakes
+Main Causes: Bad balancing, Bent rim, Tire damage
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Tire shop or garage
+Typical Fix: Wheel balancing, Replace damaged parts
+[SEP]
+# Car Consumes Too Much Fuel
+What Broke: Engine running inefficiently.
+What Drivers Notice: Fuel disappears very quickly, Frequent gas station visits
+Main Causes: Dirty injectors, Oxygen sensor failure, Dirty air filter
+Is It Dangerous?: ⚠️ Low to Medium Risk
+Easy or Garage?: ⚠️ Often manageable
+Typical Fix: Sensor replacement, Injector cleaning
+[SEP]
+# Car Shakes While Idling
+What Broke: Engine misfire or mount issue.
+What Drivers Notice: Vibrations while stopped, Engine feels rough
+Main Causes: Bad spark plugs, Vacuum leak, Bad engine mount
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Depends on cause
+Typical Fix: Tune-up, Replace damaged mounts
+[SEP]
+# Car Stalls at Traffic Lights
+What Broke: Fuel delivery or idle control problem.
+What Drivers Notice: Engine suddenly shuts off while stopped
+Main Causes: Dirty throttle body, Fuel pump issue, Sensor failure
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️ Usually garage diagnosis
+Typical Fix: Clean throttle body, Replace faulty sensor
+[SEP]
+# Delayed Gear Changes
+What Broke: Transmission problem.
+What Drivers Notice: Car hesitates before shifting gears, RPM rises before shift
+Main Causes: Low transmission fluid, Internal wear
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ❌ Garage required
+Typical Fix: Fluid service, Transmission repair
+[SEP]
+# Car Pulls When Braking
+What Broke: Brake imbalance problem.
+What Drivers Notice: Car moves left or right during braking
+Main Causes: Stuck brake caliper, Uneven brake pads
+Is It Dangerous?: 🚨 Dangerous
+Easy or Garage?: ⚠️ Garage recommended
+Typical Fix: Brake service, Replace faulty caliper
+[SEP]
+# Steering Feels Loose
+What Broke: Steering or suspension wear.
+What Drivers Notice: Steering feels unstable, Car wanders on road
+Main Causes: Tie rod wear, Steering rack issue
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ❌ Garage needed
+Typical Fix: Replace steering components
+[SEP]
+# Hard Gear Shifting (Manual Transmission)
+What Broke: Clutch or gearbox issue.
+What Drivers Notice: Difficult to change gears, Grinding while shifting
+Main Causes: Worn clutch, Low gearbox oil
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ❌ Usually garage
+Typical Fix: Replace clutch, Gearbox service
+[SEP]
+# Car Makes Noise Only on Cold Start
+What Broke: Oil circulation or worn components issue.
+What Drivers Notice: Noise disappears after few minutes
+Main Causes: Timing chain wear, Old oil, Belt tensioner
+Is It Dangerous?: ⚠️ Sometimes serious
+Easy or Garage?: ⚠️ Needs diagnosis
+Typical Fix: Oil change, Replace worn parts
+[SEP]
+# Car Hesitates When Pressing Gas
+What Broke: Fuel or air delivery issue.
+What Drivers Notice: Delay before acceleration, Weak throttle response
+Main Causes: Dirty throttle body, Bad fuel injector, Airflow sensor problem
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Depends on issue
+Typical Fix: Clean throttle body, Replace faulty sensor
+[SEP]
+# Engine RPM Goes Up But Car Barely Moves
+What Broke: Clutch slipping or transmission slipping.
+What Drivers Notice: Engine revs high, Poor acceleration
+Main Causes: Worn clutch disc, Transmission wear
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ❌ Garage required
+Typical Fix: Replace clutch, Transmission repair
+[SEP]
+# Car Feels Unstable on Highway
+What Broke: Suspension or tire issue.
+What Drivers Notice: Floating feeling, Poor control at speed
+Main Causes: Bad shocks, Uneven tire pressure, Alignment issue
+Is It Dangerous?: 🚨 High Risk Easy orGarage? ⚠️ Garage recommended
+Typical Fix: Suspension repair, Alignment
+[SEP]
+# Engine Temperature Goes Up Fast
+What Broke: Cooling system malfunction.
+What Drivers Notice: Temperature gauge rises quickly
+Main Causes: Low coolant, Bad thermostat, Water pump issue
+Is It Dangerous?: 🚨 Very Dangerous
+Easy or Garage?: ⚠️ Depends on issue
+Typical Fix: Cooling system repair
+[SEP]
+# Loud Bang From Under the Car
+What Broke: Exhaust or suspension component failed.
+What Drivers Notice: Sudden loud metallic bang
+Main Causes: Broken exhaust hanger, Suspension failure
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️ Inspection needed
+Typical Fix: Replace broken part
+[SEP]
+# Car Feels Like It Will Shut Off
+What Broke: Fuel or ignition problem.
+What Drivers Notice: Weak engine response, RPM unstable
+Main Causes: Weak fuel pump, Sensor issue, Dirty injectors
+Is It Dangerous?: ⚠️ High Risk
+Easy or Garage?: ⚠️ Diagnostic needed
+Typical Fix: Replace faulty component
+[SEP]
+# Sudden Loss of Turbo Power
+What Broke: Turbo or boost leak issue.
+What Drivers Notice: Turbo stops pulling, Car becomes very slow
+Main Causes: Broken turbo hose, Turbo failure
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️ Usually garage
+Typical Fix: Repair boost leak, Replace turbo
+[SEP]
+# Car Feels Like Brakes Are Holding It Back
+What Broke: Brake caliper stuck.
+What Drivers Notice: Car struggles to move freely, Poor acceleration
+Main Causes: Rust, Brake overheating
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ⚠️ Garage recommended
+Typical Fix: Replace brake caliper
+[SEP]
+# Car Makes Deep Roaring Noise While Driving
+Sound: Boiling noise, Loud cooling fan
+What Broke: Cooling system cannot cool the engine correctly., Wheel bearing or tire issue.
+What Drivers Notice: Loud road roar, Gets louder with speed, Temperature gauge goes very high, Warning light ON, Steam from hood
+Main Causes: Bad wheel bearing, Uneven tire wear, Low coolant, Coolant leak, Bad thermostat, Bad radiator, Bad water pump
+Is It Dangerous?: ⚠️ Medium to High Risk 🚨 Extremely Dangerous
+Easy or Garage?: ⚠️ Garage recommended, ⚠️ Small leaks maybe simple, ❌ Serious overheating = garage immediately
+Typical Fix: Replace bearing or tires, # 1. Engine Overheating, Repair leak, Replace faulty cooling part, Refill coolant
+[SEP]
+# Bad Thermostat
+Sound: Usually no sound
+What Broke: Thermostat stuck closed or open.
+What Drivers Notice: Engine overheats randomly, Heater stops working correctly
+Main Causes: Old thermostat, Internal failure
+Is It Dangerous?: ⚠️ High Risk if overheating
+Easy or Garage?: ✅ Medium difficulty
+Typical Fix: Replace thermostat
+[SEP]
+# Bad Water Pump
+Sound: Grinding, Whining
+What Broke: Water pump no longer circulates coolant properly.
+What Drivers Notice: Overheating, Coolant leak, Weak heater
+Main Causes: Bearing failure, Old pump, Coolant neglect
+Is It Dangerous?: 🚨 Very Dangerous
+Easy or Garage?: ⚠️ Medium to hard
+Typical Fix: Replace water pump
+[SEP]
+# Radiator Fan Not Working
+Sound: Fan not spinning, Sometimes loud buzzing
+What Broke: Cooling fan system failure.
+What Drivers Notice: Car overheats in traffic, Temperature normal on highway
+Main Causes: Bad fan motor, Relay failure, Fuse issue
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ⚠️ Medium difficulty
+Typical Fix: Replace fan or relay
+[SEP]
+# Radiator Clogged
+Sound: Usually no sound
+What Broke: Radiator blocked internally.
+What Drivers Notice: Engine runs hot, Weak cooling performance
+Main Causes: Dirty coolant, Rust buildup
+Is It Dangerous?: ⚠️ High Risk
+Easy or Garage?: ⚠️ Garage recommended
+Typical Fix: Flush or replace radiator
+[SEP]
+# Blown Head Gasket
+Sound: Bubbling sometimes
+What Broke: Head gasket between engine and cylinder head failed.
+What Drivers Notice: White smoke, Overheating, Coolant disappears
+Main Causes: Severe overheating, Engine stress
+Is It Dangerous?: 🚨 Extremely Dangerous
+Easy or Garage?: ❌ Major garage repair
+Typical Fix: Replace head gasket, Machine cylinder head
+[SEP]
+# Air in Cooling System
+Sound: Water flowing sound behind dashboard
+What Broke: Air trapped inside cooling system.
+What Drivers Notice: Temperature fluctuates, Heater works badly
+Main Causes: Poor coolant refill, Leak
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ✅ Sometimes simple
+Typical Fix: Bleed cooling system
+[SEP]
+# Low Coolant Level
+Sound: Sometimes bubbling
+What Broke: Coolant quantity too low.
+What Drivers Notice: Coolant warning light, Heater weak, Rising temperature
+Main Causes: Leak, Evaporation, Poor maintenance
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ✅ Easy if no leak
+Typical Fix: Add coolant, Repair leaks
+[SEP]
+# Heater Core Leak
+Sound: Water movement sound
+What Broke: Heater core leaking coolant inside dashboard.
+What Drivers Notice: Sweet smell inside cabin, Foggy windows, Wet carpet
+Main Causes: Corrosion, Old cooling system
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ❌ Usually difficult
+Typical Fix: Replace heater core
+[SEP]
+# Broken Suspension Spring
+Sound: Loud clunk, Metallic snap
+What Broke: Coil spring cracked or broken.
+What Drivers Notice: One side of car sits lower, Rough ride
+Main Causes: Rust, Heavy impacts
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ❌ Dangerous for beginners
+Typical Fix: Replace spring
+[SEP]
+# Worn Suspension Bushings
+Sound: Squeaking, Clunking
+What Broke: Rubber bushings deteriorated.
+What Drivers Notice: Loose handling, Vibration
+Main Causes: Age, Heat, Road wear
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Medium difficulty
+Typical Fix: Replace bushings
+[SEP]
+# Loose Tie Rod End
+Sound: Knocking, Clunking
+What Broke: Tie rod joint worn.
+What Drivers Notice: Loose steering, Car wanders on road
+Main Causes: Wear, Potholes
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ⚠️ Medium difficulty
+Typical Fix: Replace tie rod end, Wheel alignment
+[SEP]
+# Bent Suspension Arm
+Sound: Clunking sometimes
+What Broke: Control arm bent from impact.
+What Drivers Notice: Car pulls to one side, Uneven tire wear
+Main Causes: Accident, Large pothole
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ❌ Garage required
+Typical Fix: Replace suspension arm, Alignment
+[SEP]
+# Leaking Strut Mount
+Sound: Clunk during turning
+What Broke: Upper strut mount damaged.
+What Drivers Notice: Steering feels rough, Front-end instability
+Main Causes: Suspension wear, Age
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️ Garage recommended
+Typical Fix: Replace strut mount
+[SEP]
+# Suspension Bottoming Out
+Sound: Heavy bang, Popping, Misfiring, Uneven engine sound
+What Broke: Suspension travel exhausted due to worn shocks or springs., Spark plugs are worn or dirty.
+What Drivers Notice: Hard impacts on bumps, Car feels harsh, Engine shakes, Weak acceleration, Hard starting, Poor fuel economy
+Main Causes: Bad shocks, Overloaded car, Broken springs, Old spark plugs, Carbon buildup, Wrong spark plug gap
+Is It Dangerous?: ⚠️ Medium to High Risk ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Inspection recommended, ✅ Usually simple
+Typical Fix: Replace worn suspension components, # 1. Bad Spark Plugs, Replace spark plugs
+[SEP]
+# Bad Ignition Coil
+Sound: Misfire popping, Rough idle
+What Broke: Ignition coil cannot send proper spark.
+What Drivers Notice: Car jerks, Engine loses power, Check engine light ON
+Main Causes: Heat damage, Electrical failure
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ✅ Medium difficulty
+Typical Fix: Replace ignition coil
+[SEP]
+# Bad Fuel Injector
+Sound: Fast ticking, Misfire sound sometimes
+What Broke: Injector clogged or leaking.
+What Drivers Notice: Poor acceleration, Engine hesitation, High fuel consumption
+Main Causes: Dirty fuel, Carbon buildup
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Sometimes simple
+Typical Fix: Injector cleaning or replacement
+[SEP]
+# Dirty Throttle Body
+Sound: Rough uneven idle
+What Broke: Throttle body full of carbon deposits.
+What Drivers Notice: Rough idle, Delayed acceleration, Engine stalls sometimes
+Main Causes: Dirt buildup, Poor maintenance
+Is It Dangerous?: ⚠️ Low to Medium Risk
+Easy or Garage?: ✅ Often simple
+Typical Fix: Clean throttle body
+[SEP]
+# Bad Fuel Pump
+Sound: Loud humming, Buzzing from rear
+What Broke: Fuel pump weak or failing.
+What Drivers Notice: Car loses power, Hard starting, Engine stalls
+Main Causes: Old pump, Dirty fuel
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ⚠️ Medium difficulty
+Typical Fix: Replace fuel pump
+[SEP]
+# Clogged Fuel Filter
+Sound: Usually no sound
+What Broke: Fuel filter blocked.
+What Drivers Notice: Weak acceleration, Engine hesitation, Hard starting
+Main Causes: Dirty fuel, Old filter
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ✅ Usually manageable
+Typical Fix: Replace fuel filter
+[SEP]
+# Low Engine Oil
+Sound: Ticking, Knocking
+What Broke: Engine lacks lubrication.
+What Drivers Notice: Oil warning light, Engine noise, Overheating
+Main Causes: Oil leak, Lack of maintenance
+Is It Dangerous?: 🚨 Extremely Dangerous
+Easy or Garage?: ✅ Easy if caught early
+Typical Fix: Add oil, Repair leaks
+[SEP]
+# Engine Oil Leak
+Sound: Sometimes sizzling on hot engine
+What Broke: Oil escaping from engine seals or gaskets.
+What Drivers Notice: Oil spots under car, Burning oil smell
+Main Causes: Bad gasket, Worn seals
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️ Depends on leak
+Typical Fix: Replace leaking gasket or seal
+[SEP]
+# Wrong Engine Oil
+Sound: Ticking, Noisy engine
+What Broke: Incorrect oil viscosity used.
+What Drivers Notice: Rough engine operation, Poor cold starts
+Main Causes: Wrong maintenance
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ✅ Usually simple
+Typical Fix: Oil change with correct oil
+[SEP]
+# Engine Burning Oil
+Sound: Sometimes knocking
+What Broke: Oil entering combustion chamber.
+What Drivers Notice: Oil level drops quickly, Blue smoke from exhaust
+Main Causes: Worn piston rings, Valve seal wear
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ❌ Major repair often needed
+Typical Fix: Internal engine repair
+[SEP]
+# Oil Pressure Too Low
+Sound: Loud ticking, Knocking
+What Broke: Engine oil pressure insufficient.
+What Drivers Notice: Oil pressure warning light, Engine feels noisy
+Main Causes: Low oil, Bad oil pump, Internal wear
+Is It Dangerous?: 🚨 Extremely Dangerous
+Easy or Garage?: ❌ Garage immediately
+Typical Fix: Diagnose oil system, Repair oil pump or engine
+[SEP]
+# Sludge Inside Engine
+Sound: Ticking, Restricted oil flow sounds
+What Broke: Oil sludge blocking engine passages.
+What Drivers Notice: Poor engine performance, Overheating, Oil turns very black
+Main Causes: Rare oil changes, Cheap oil
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ⚠️ Sometimes difficult
+Typical Fix: Engine cleaning, Frequent oil changes
+[SEP]
+# Bad Oxygen Sensor
+Sound: Usually no sound
+What Broke: Oxygen sensor sending wrong data.
+What Drivers Notice: High fuel consumption, Weak acceleration, Check engine light
+Main Causes: Age, Carbon contamination
+Is It Dangerous?: ⚠️ Low to Medium Risk
+Easy or Garage?: ✅ Usually manageable
+Typical Fix: Replace oxygen sensor
+[SEP]
+# Bad MAF Sensor (Airflow Sensor)
+Sound: Misfire sounds sometimes
+What Broke: Mass airflow sensor dirty or faulty.
+What Drivers Notice: Weak acceleration, Rough idle, Engine hesitation
+Main Causes: Dirty air filter, Dust contamination
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ✅ Often simple
+Typical Fix: Clean or replace MAF sensor
+[SEP]
+# Bad Crankshaft Sensor
+Sound: Usually no sound
+What Broke: Crankshaft position sensor failed.
+What Drivers Notice: Car suddenly stalls, Hard starting, No start condition
+Main Causes: Heat damage, Electrical failure
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ⚠️ Medium difficulty
+Typical Fix: Replace crankshaft sensor
+[SEP]
+# Bad Camshaft Sensor
+Sound: Misfires sometimes
+What Broke: Camshaft sensor sending incorrect timing data.
+What Drivers Notice: Rough running, Loss of power, Hard starts
+Main Causes: Electrical issue, Sensor wear
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Medium difficulty
+Typical Fix: Replace camshaft sensor
+[SEP]
+# Carbon Buildup in Engine
+Sound: Knocking sometimes
+What Broke: Carbon deposits inside intake or valves.
+What Drivers Notice: Weak acceleration, Rough idle, Poor fuel economy
+Main Causes: Poor fuel, Short trips, Direct injection engines
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Cleaning needed
+Typical Fix: Carbon cleaning service
+[SEP]
+# Detonation / Engine Knocking
+Sound: Ping ping knocking
+What Broke: Abnormal fuel combustion.
+What Drivers Notice: Metallic knocking during acceleration
+Main Causes: Bad fuel, Timing issue, Carbon buildup
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ⚠️ Diagnosis required
+Typical Fix: Better fuel, Timing repair, Engine cleaning
+[SEP]
+# Engine Compression Loss
+Sound: Uneven engine sound, Misfires, Turbo whistle disappears, Engine sounds weak
+What Broke: Engine protection mode activated because of a serious problem., Engine cylinders losing compression.
+What Drivers Notice: Very weak engine, Hard starting, Oil consumption, Car becomes very slow suddenly, Cannot accelerate normally, Sometimes enters “limp mode”
+Main Causes: Worn piston rings, Valve damage, Head gasket issue, Turbo problem, Sensor failure, Fuel pressure issue
+Is It Dangerous?: 🚨 Very Dangerous 🚨 High Risk
+Easy or Garage?: ❌ Major engine work, ❌ Diagnostic required
+Typical Fix: Internal engine repair, # 21. Car Suddenly Loses Power on Highway, Scan faults, Repair turbo or sensor issue
+[SEP]
+# Black Smoke During Acceleration
+Sound: Deep engine sound sometimes
+What Broke: Too much fuel entering engine.
+What Drivers Notice: Thick black smoke from exhaust, Car consumes more fuel
+Main Causes: Dirty injectors, Turbo issue, Airflow sensor problem
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️ Depends on cause
+Typical Fix: Injector cleaning, Sensor replacement
+[SEP]
+# White Smoke and Coolant Loss
+Sound: Bubbling sometimes
+What Broke: Coolant entering engine combustion chamber.
+What Drivers Notice: White smoke continuously, Coolant disappears
+Main Causes: Head gasket failure, Cracked cylinder head
+Is It Dangerous?: 🚨 Extremely Dangerous
+Easy or Garage?: ❌ Major repair
+Typical Fix: Head gasket replacement
+[SEP]
+# Engine Shakes During Acceleration
+Sound: Misfire popping, Uneven engine noise
+What Broke: Engine cylinders not firing correctly.
+What Drivers Notice: Vibrations while pressing gas pedal, Rough acceleration
+Main Causes: Bad spark plugs, Ignition coil issue, Injector problem
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️ Sometimes simple
+Typical Fix: Ignition system repair
+[SEP]
+# Car Struggles Going Uphill
+Sound: Engine works harder than normal
+What Broke: Engine not producing enough power.
+What Drivers Notice: Very weak power uphill, Heavy feeling
+Main Causes: Clogged catalytic converter, Turbo issue, Fuel problem
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Diagnostic recommended
+Typical Fix: Engine performance diagnosis
+[SEP]
+# RPM Goes Up and Down at Idle
+Sound: Engine revving unevenly
+What Broke: Air or fuel control issue.
+What Drivers Notice: RPM unstable while stopped, Idle fluctuates by itself
+Main Causes: Vacuum leak, Dirty throttle body, Idle control problem
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ✅ Sometimes simple
+Typical Fix: Clean throttle body, Repair vacuum leak
+[SEP]
+# Car Feels Heavy to Drive
+Sound: Sometimes grinding or humming
+What Broke: Brakes or drivetrain partially stuck.
+What Drivers Notice: Car does not roll freely, Slower than normal
+Main Causes: Stuck brake caliper, Wheel bearing issue
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ⚠️ Inspection needed
+Typical Fix: Brake or wheel repair
+[SEP]
+# Engine Makes Ticking Noise After Oil Change
+Sound: Tick tick tick
+What Broke: Oil circulation issue or wrong oil.
+What Drivers Notice: Ticking from engine top
+Main Causes: Wrong oil viscosity, Low oil pressure, Dirty lifters
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️ Needs checking
+Typical Fix: Correct oil, Engine inspection
+[SEP]
+# Car Vibrates When Braking at High Speed
+Sound: Grinding sometimes
+What Broke: Brake rotors warped.
+What Drivers Notice: Steering wheel shakes during braking
+Main Causes: Overheated brakes, Old rotors
+Is It Dangerous?: ⚠️ High Risk
+Easy or Garage?: ⚠️ Brake shop recommended
+Typical Fix: Replace brake rotors
+[SEP]
+# Loud Humming That Gets Worse With Speed
+Sound: Hummmmmm, Roaring
+What Broke: Wheel bearing damaged.
+What Drivers Notice: Noise grows with speed, Feels like airplane noise
+Main Causes: Wear, Water damage
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ❌ Garage needed
+Typical Fix: Replace wheel bearing
+[SEP]
+# Car Jerks When Changing Gears
+Sound: Clunk, Bang
+What Broke: Transmission or engine mount issue.
+What Drivers Notice: Sudden shock during shifting
+Main Causes: Worn mounts, Transmission wear
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️ Often garage needed
+Typical Fix: Replace mounts, Transmission service
+[SEP]
+# Burning Smell After Driving
+Sound: Sometimes sizzling
+What Broke: Fluid leaking onto hot parts or overheated brakes.
+What Drivers Notice: Burnt smell after trip
+Main Causes: Oil leak, Stuck brake, Clutch overheating
+Is It Dangerous?: ⚠️ High Risk
+Easy or Garage?: ⚠️ Inspection recommended
+Typical Fix: Repair leak or brake issue
+[SEP]
+# Car Hesitates Before Moving
+Sound: Weak engine response
+What Broke: Fuel or transmission problem.
+What Drivers Notice: Delay after pressing gas pedal
+Main Causes: Dirty injectors, Transmission slipping, Turbo lag problem
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Diagnosis needed
+Typical Fix: Fuel system or transmission repair
+[SEP]
+# Engine Suddenly Becomes Very Loud
+Sound: Deep roaring exhaust sound
+What Broke: Exhaust pipe or muffler broke.
+What Drivers Notice: Exhaust becomes extremely loud suddenly
+Main Causes: Rust, Broken exhaust connection
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Usually garage
+Typical Fix: Repair or replace exhaust section
+[SEP]
+# Metallic Rattle During Acceleration
+Sound: Rattle rattle
+What Broke: Heat shield or catalytic converter damage.
+What Drivers Notice: Metallic shaking under acceleration
+Main Causes: Rust, Internal converter failure
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ⚠️ Inspection needed
+Typical Fix: Tighten shield, Replace catalytic converter
+[SEP]
+# Car Pulls Left or Right While Driving
+Sound: Sometimes tire noise
+What Broke: or suspension issue., Alignment, tire
+What Drivers Notice: Steering not straight, Car drifts by itself
+Main Causes: Bad alignment, Tire wear, Suspension damage
+Is It Dangerous?: ⚠️ Medium to High Risk
+Easy or Garage?: ⚠️ Garage recommended
+Typical Fix: Alignment, Suspension repair
+[SEP]
+# Car Feels Unstable in Corners
+Sound: Clunking sometimes
+What Broke: Suspension weakness.
+What Drivers Notice: Body rolls too much, Feels unsafe during turns
+Main Causes: Bad shocks, Bad sway bar links
+Is It Dangerous?: 🚨 High Risk
+Easy or Garage?: ⚠️ Inspection needed
+Typical Fix: Suspension repair
+[SEP]
+# Loud Click When Turning Steering Wheel
+Sound: Click click click
+What Broke: CV joint worn out.
+What Drivers Notice: Clicking during turns
+Main Causes: Torn axle boot, Loss of grease
+Is It Dangerous?: ⚠️ High Risk
+Easy or Garage?: ⚠️ Medium difficulty
+Typical Fix: Replace CV axle
+[SEP]
+# Car Feels Like It Misfires Only Under Load
+Sound: Popping, Hesitation
+What Broke: Ignition system weak under load.
+What Drivers Notice: Problem appears during acceleration, Fine at idle
+Main Causes: Weak ignition coil, Spark plug issue
+Is It Dangerous?: ⚠️ Medium Risk
+Easy or Garage?: ✅ Often manageable
+Typical Fix: Replace plugs or coils
+[SEP]
+# Sudden Loss of Coolant Without Visible Leak
+Sound: Sometimes bubbling
+What Broke: Internal coolant leak.
+What Drivers Notice: Coolant level keeps dropping, No puddles under car
+Main Causes: Head gasket failure, Heater core leak
+Is It Dangerous?: 🚨 Extremely Dangerous
+Easy or Garage?: ❌ Major diagnosis required
+Typical Fix: Pressure test, Repair internal leak
+# Engine Oil
+When to Change: Every 5,000–10,000 km, Or once a year
+Why: Oil lubricates and protects the engine. Over time: it becomes dirty loses viscosity stops protecting engine parts properly
+Symptoms: Engine becomes louder, Ticking/knocking noises, Burning smell, Very dark thin oil, Oil warning light
+Risks if Ignored: Engine wear, Engine seizure, Turbo damage
+Parts to Replace: Engine oil, Oil filter
+[SEP]
+# Spark Plugs
+When to Change: Regular plugs: every 20,000–30,000 km, Iridium/platinum: every 60,000–100,000 km
+Why: Spark plugs ignite the air/fuel mixture. Over time they wear out and produce weaker sparks.
+Symptoms: Rough idle, Misfires, Hard starting, Poor fuel economy, Loss of power
+Risks if Ignored: Catalytic converter damage, Poor engine performance
+Parts to Replace: Spark plugs
+Also Consider: Sometimes ignition coils too
+[SEP]
+# Ignition Coils
+When to Change: Usually 80,000–150,000 km, Or when faulty
+Why: Coils generate high voltage for spark plugs. Heat and age damage them.
+Symptoms: Engine shaking, Misfires, Check engine light, Poor acceleration, Fuel smell
+Risks if Ignored: Catalytic converter failure, Vehicle may stop running
+Parts to Replace: Faulty ignition coil
+Also Consider: Often spark plugs at same time
+[SEP]
+# Engine Air Filter
+When to Change: Every 15,000–30,000 km
+Why: The filter blocks dust and dirt from entering the engine.
+Symptoms: Reduced power, Higher fuel consumption, Dirty black filter
+Risks if Ignored: Poor combustion, Dirt entering engine
+Parts to Replace: Air filter
+[SEP]
+# Fuel Filter
+When to Change: Every 30,000–60,000 km, Diesel cars often more important
+Why: Prevents dirt from reaching injectors and fuel pump.
+Symptoms: Hard starting, Power loss, Engine hesitation
+Risks if Ignored: Injector damage, Fuel pump damage
+Parts to Replace: Fuel filter
+[SEP]
+# Coolant / Antifreeze
+When to Change: Every 2–5 years
+Why: Coolant prevents overheating and corrosion.
+Symptoms: Engine overheating, Rust-colored coolant, Coolant level dropping
+Risks if Ignored: Head gasket failure, Engine overheating
+Parts to Replace: Coolant
+Also Consider: Sometimes thermostat
+[SEP]
+# Brake Pads
+When to Change: Usually 20,000–50,000 km
+Why: Brake pads wear down from friction.
+Symptoms: Squeaking noises, Grinding noise, Weak braking, Brake warning light
+Risks if Ignored: Brake disc damage, Dangerous braking performance
+Parts to Replace: Brake pads
+Also Consider: Sometimes brake rotors/discs
+[SEP]
+# Timing Belt
+When to Change: Usually 60,000–120,000 km, Depends on engine
+Why: Controls synchronization between crankshaft and camshaft.
+Symptoms: Sometimes NONE., Possible signs:, Ticking noise, Cracks on belt, Engine vibration
+Risks if Ignored: Complete engine destruction if belt snaps
+Parts to Replace: Timing belt, Water pump often replaced together
+[SEP]
+# Car Battery
+When to Change: Every 3–5 years
+Why: Battery loses charging capacity with age.
+Symptoms: Slow engine crank, Electrical problems, Dim headlights
+Risks if Ignored: Car won’t start
+Parts to Replace: Battery
+[SEP]
+# Transmission Fluid
+When to Change: Automatic: 40,000–80,000 km, Manual: varies
+Why: Lubricates gears and transmission components.
+Symptoms: Hard shifting, Slipping gears, Delayed acceleration
+Risks if Ignored: Transmission failure
+Parts to Replace: Transmission fluid
+Also Consider: Sometimes transmission filter
+[SEP]
+# Tires
+When to Change: Usually 40,000–70,000 km, Or when tread is worn
+Symptoms: Cracks, Uneven wear, Poor grip, Vibrations
+Risks if Ignored: Blowout, Poor braking, Loss of control
+Parts to Replace: Tires
+Also Consider: Wheel alignment sometimes needed
+[SEP]
+# Cabin Air Filter
+When to Change: Every 15,000–25,000 km, Or once a year
+Why: Filters dust, pollen, and pollution from the air entering the cabin.
+Symptoms: Weak AC airflow, Bad smell inside car, Foggy windows, More dust inside cabin
+Risks if Ignored: Poor air quality, AC system strain
+Parts to Replace: Cabin air filter
+[SEP]
+# Water Pump
+When to Change: Often around 80,000–150,000 km, Usually replaced with timing belt
+Why: Circulates coolant through the engine.
+Symptoms: Coolant leak, Engine overheating, Whining noise, Steam from engine bay
+Risks if Ignored: Severe overheating, Engine damage
+Parts to Replace: Water pump, Coolant
+[SEP]
+# Thermostat
+When to Change: Usually when faulty
+Why: Controls coolant flow and engine temperature.
+Symptoms: Engine overheating, Temperature fluctuates, Heater not working properly
+Risks if Ignored: Overheating, Poor fuel economy
+Parts to Replace: Thermostat
+Also Consider: Coolant sometimes
+[SEP]
+# Serpentine Belt / Accessory Belt
+When to Change: Every 60,000–100,000 km
+Why: Drives alternator, AC compressor, power steering pump, etc.
+Symptoms: Squealing noise, Cracks on belt, Weak battery charging, Loss of power steering
+Risks if Ignored: Car overheating, Battery not charging, Steering becomes hard
+Parts to Replace: Serpentine belt
+Also Consider: Belt tensioner sometimes
+[SEP]
+# Brake Fluid
+When to Change: Every 2 years
+Why: Brake fluid absorbs moisture over time.
+Symptoms: Soft brake pedal, Reduced braking performance, Dark brake fluid
+Risks if Ignored: Brake failure
+Parts to Replace: Brake fluid
+[SEP]
+# Brake Rotors / Discs
+When to Change: Usually 50,000–100,000 km, Depends on driving style
+Symptoms: Steering wheel vibration while braking, Grinding noise, Grooves on rotors
+Risks if Ignored: Weak braking, Damaged brake system
+Parts to Replace: Fuel injectors, Injector seals
+[SEP]
+# Turbocharger
+When to Change: Usually 150,000–250,000 km, Depends heavily on oil maintenance
+Symptoms: Whining sound, Blue smoke, Loss of power, Oil consumption
+Risks if Ignored: Engine damage, Turbo failure
+Parts to Replace: Turbocharger
+Also Consider: Oil lines sometimes
+[SEP]
+# Suspension Shock Absorbers
+When to Change: Around 80,000–120,000 km
+Why: Absorb road impacts and stabilize vehicle.
+Symptoms: Bouncy ride, Oil leaking from shocks, Uneven tire wear, Poor handling
+Risks if Ignored: Loss of control, Longer braking distance
+Parts to Replace: Shock absorbers/struts
+[SEP]
+# Ball Joints
+When to Change: When worn
+Symptoms: Clunking noise, Steering vibration, Uneven tire wear
+Risks if Ignored: Suspension failure, Loss of steering control
+Parts to Replace: Ball joints
+[SEP]
+# Wheel Bearings
+When to Change: Usually 100,000–150,000 km
+Symptoms: Humming noise, Grinding noise, Vibration increasing with speed
+Risks if Ignored: Wheel instability, Wheel locking
+Parts to Replace: Wheel bearing
+Also Consider: Wheel hub sometimes
+[SEP]
+# Alternator
+When to Change: Usually 120,000–200,000 km
+Symptoms: Battery warning light, Flickering lights, Dead battery repeatedly
+Risks if Ignored: Vehicle shuts down while driving
+Parts to Replace: Alternator
+Also Consider: Serpentine belt sometimes
+[SEP]
+# AC Compressor
+When to Change: When faulty
+Symptoms: No cold air, Clicking noises, AC clutch not engaging
+Risks if Ignored: AC system contamination
+Parts to Replace: AC compressor, Refrigerant recharge
+[SEP]
+# Wheel Alignment
+When to Change: After hitting potholes, After suspension work, Every 20,000 km check
+Symptoms: Car pulls left/right, Uneven tire wear, Crooked steering wheel
+Risks if Ignored: Tire wear, Poor handling
