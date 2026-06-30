@@ -1,6 +1,8 @@
 # 🚗 GARAGE - AI-Powered Vehicle Diagnostic System
 
 A multimodal AI backend application for comprehensive vehicle diagnostics combining audio classification, computer vision, and price prediction.
+Full Demo Video :https://youtu.be/RN7zeldA8Y0
+Full Presenation:https://youtube.com/shorts/-XABG-B0KsA?feature=share
 
 ## 📋 Table of Contents
 
